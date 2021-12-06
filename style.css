@@ -1,0 +1,12 @@
+.heading{
+    width: 100%;
+    margin-top: 0%;
+}
+canvas{
+    border: solid white;
+    margin-top: 130px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
